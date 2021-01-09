@@ -1,6 +1,6 @@
 //
 //  main.c
-//  courseraCWeek4
+//  helloWorld2
 //
 //  Created by kanghee on 1/8/21.
 //
